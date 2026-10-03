@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of qchwnd/flarum-lang-traditional-chinese.** Not for installation: use [Packagist](https://packagist.org/packages/qchwnd/flarum-lang-traditional-chinese) or the [upstream repository](https://github.com/QChWnd/flarum-lang-traditional-chinese).
 
-**0** versions archived · Latest: [`1.13.1`](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.13.1) · License: `MIT` · Flarum: `^0.1.0-beta.13`
+**71** versions archived · Latest: [`1.13.1`](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.13.1) · License: `MIT` · Flarum: `^0.1.0-beta.13`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.11.10` | 2020-02-13 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.10) |
+| `1.11.11` | 2020-02-14 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.11) |
+| `1.11.12` | 2020-02-16 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.12) |
+| `1.11.13` | 2020-02-19 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.13) |
+| `1.11.14` | 2020-02-23 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.14) |
+| `1.11.15` | 2020-02-27 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.15) |
+| `1.11.16` | 2020-02-29 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.16) |
+| `1.11.4` | 2020-01-27 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.4) |
+| `1.11.5` | 2020-02-03 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.5) |
+| `1.11.6` | 2020-02-05 | `^0.1.0-beta.10` | [Browse](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tree/archive/v1.11.6) |
+
+[View all 71 versions](https://github.com/flarchive/qchwnd-flarum-lang-traditional-chinese/tags)
 
 Catalog entry: [packages/qchwnd-flarum-lang-traditional-chinese.json](https://github.com/flarchive/archive-index/blob/main/packages/qchwnd-flarum-lang-traditional-chinese.json)
 
